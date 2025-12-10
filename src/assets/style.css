@@ -1,5 +1,5 @@
 :root {
-  --background-color: #f4f1ec;
+  --background-color: #fafafa;
   --foreground-color: #000000;
   --highlight-color: orangered;
   --box-border-radius: 3px;
@@ -14,7 +14,7 @@
   --icon-hover-filter: invert(51%) sepia(0%) saturate(0%) hue-rotate(23deg) brightness(90%) contrast(90%);
   --icon-secondary-filter: invert(97%) sepia(0%) saturate(0%) hue-rotate(129deg) brightness(86%) contrast(88%);
   --cell-background-color: #fff;
-  --code-background-color: #f9f9f9;
+  --code-background-color: #ffffff;
   --secondary-color: #999;
 }
 
